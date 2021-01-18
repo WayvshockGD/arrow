@@ -1,0 +1,25 @@
+{
+  "name": "arrow-bot",
+  "version": "1.0.0",
+  "description": "a bot like xore and solar but same i guess :shrug:",
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "node ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WayvshockGD/arrow.git"
+  },
+  "keywords": [
+    "bot"
+  ],
+  "author": "wayv",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/WayvshockGD/arrow/issues"
+  },
+  "homepage": "https://github.com/WayvshockGD/arrow#readme",
+  "dependencies": {
+    "discord.js": "^12.5.1"
+  }
+}
